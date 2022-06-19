@@ -1,5 +1,8 @@
 ### Hi this is Jackeline Garcia 👋
 
+<div align="center">< src="https://i.imgur.com/34fiEUG.gif" /></div>
+<p>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JackelineGS)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackeline-garcia-75a716170/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jackeline.garcia1@unmsm.edu.pe)
