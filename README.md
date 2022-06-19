@@ -18,11 +18,11 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Leader of the Mental Health Research Unit at the Peruvian Institute of Psychological Orientation
 - Project manager   
 
-### ✔️ I'm currently learning
+#### ✔️ I'm currently learning
 - Html
 - Python
 
-### 💡 Goals for 2022
+#### 💡 Goals for 2022
 - Complete #100DaysOfCode challenge
 - Become skilled in Python
 - Complete coding bootcamp by December 2022
@@ -43,7 +43,7 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 <code><img width="06%" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
 <br />
 
-##Pagina web
+#### Pagina web
 https://gohugo.io/ 
 
 
