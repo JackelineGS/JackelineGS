@@ -1,7 +1,7 @@
 ### Hi this is Jackeline Garcia 👋
 
 
-<p align="center"><img width="10%" src="https://pa1.narvii.com/7655/19632574443f4d276e3bcdacb80d077bc15af3f3r1-450-450_hq.gif"/></p>
+<p align="center"><img width="50%" src="https://pa1.narvii.com/7655/19632574443f4d276e3bcdacb80d077bc15af3f3r1-450-450_hq.gif"/></p>
 
 
 
