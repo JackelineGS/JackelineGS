@@ -14,19 +14,18 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Project manager   
 
 ## Published projects
-* **Interpretation of statical concepts in Psichology: knowledge level and effects of an instrumental desing in peruvian university students** (https://scholar.google.com.pe/citations?view_op=view_citation&hl=es&user=t9RAzQoAAAAJ&citation_for_view=t9RAzQoAAAAJ:qjMakFHDy7sC)
+- Interpretation of statical concepts in Psichology: knowledge level and effects of an instrumental desing in peruvian university students (https://scholar.google.com.pe/citations?view_op=view_citation&hl=es&user=t9RAzQoAAAAJ&citation_for_view=t9RAzQoAAAAJ:qjMakFHDy7sC)
 
 ## Projects under development
-* **Manager of projects**
-* **Manager of projects**
+- Development of a mental healt services platform
+- Creation of a social support scale
+- Epidemiology and mental health in cancer patients
 
 #### :computer: Programming languages and tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
-
-
 
 ##Pagina web
 https://gohugo.io/ 
