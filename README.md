@@ -23,7 +23,7 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Complete coding bootcamp by December 2022
 
 #### 👩‍💻 Published projects
-- Interpretation of statical concepts in Psichology: knowledge level and effects of an instrumental desing in peruvian university students
+- [INTERPRETATION OF STATISTICAL CONCEPTS IN PSYCHOLOGY)](http://www.marianjournals.com/files/JPER_articles/JPER_29_1_2021/Tafur_Mendoza_et_al_JPER_2021_29_1_72_96.pdf)
 
 #### ☕ Projects under development
 - Development of a mental healt services platform
