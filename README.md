@@ -1,7 +1,11 @@
 ### Hi this is Jackeline Garcia 👋
 
-<div align="center">< src="https://i.imgur.com/34fiEUG.gif" /></div>
+<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.gifer.com/QCjL.gif" /></div>
+
 <p>
+  <a>
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true" />
+  </a>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JackelineGS)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackeline-garcia-75a716170/)
