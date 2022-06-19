@@ -1,7 +1,7 @@
 ### Hi this is Jackeline Garcia 👋
 
 
-<p align="center"><img src="https://animesher.com/orig/0/93/936/9368/animesher.com_wings-of-freedom-shingeki-no-kyojin-survey-corps-936894.gif "/></p>
+<p align="center"><img src="https://animesher.com/orig/0/93/936/9368/animesher.com_wings-of-freedom-shingeki-no-kyojin-survey-corps-936894.gif"/></p>
 
 
 
