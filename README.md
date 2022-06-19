@@ -1,7 +1,8 @@
 ### Hi this is Jackeline Garcia 👋
 
 
-<p align="center"><img src="https://gfycat.com/thankfulpolitehornshark"/></p>
+<p align="center"><img src="https://pa1.narvii.com/7655/19632574443f4d276e3bcdacb80d077bc15af3f3r1-450-450_hq.gif"/></p>
+
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JackelineGS)
