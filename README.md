@@ -14,7 +14,7 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Project manager   
 
 #### Published projects
-- Interpretation of statical concepts in Psichology: knowledge level and effects of an instrumental desing in peruvian university students (https://scholar.google.com.pe/citations?view_op=view_citation&hl=es&user=t9RAzQoAAAAJ&citation_for_view=t9RAzQoAAAAJ:qjMakFHDy7sC)
+- Interpretation of statical concepts in Psichology: knowledge level and effects of an instrumental desing in peruvian university students
 
 #### Projects under development
 - Development of a mental healt services platform
