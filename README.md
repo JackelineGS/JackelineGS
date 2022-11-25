@@ -15,6 +15,7 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Project manager   
 
 #### ✔️ I'm currently learning
+- JavaScript
 - Html
 - Python
 
