@@ -13,11 +13,15 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 - Researcher in mental health and public health
 - Leader of the Mental Health Research Unit at the Peruvian Institute of Psychological Orientation
 - Project manager   
+- Web Development 
 
 #### ✔️ I'm currently learning
 - JavaScript
 - Html
-- Python
+- CSS
+- Github
+- Jest
+- R
 
 #### 💡 Goals for 2022
 - Complete #100DaysOfCode challenge
