@@ -5,36 +5,32 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackeline-garcia-75a716170/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jackeline.garcia1@unmsm.edu.pe)
 
-Welcome to my Github I am Jackeline and I currently I am bachelor in psychology at UNMSM
+Welcome to my Github I am Jackeline and I currently I am bachelor in psychology at UNMSM and student in LABORATORIA bootcamp
 
 
-#### 🌱 Things I am currently working on: 
+#### 🌱 About me: 
 
-- Researcher in mental health and public health
-- Leader of the Mental Health Research Unit at the Peruvian Institute of Psychological Orientation
-- Project manager   
-- Web Development 
+I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development. Halfway through my career in health sciences I discovered programming where its difficulty and possibilities pushed me to learn it and generate creative solutions. I started learning in a self-taught way and then in a team at Laboratoria, so self-learning and teamwork are my main values.
 
 #### ✔️ I'm currently learning
 - JavaScript
 - Html
 - CSS
 - Github
+- Git
 - Jest
-- R
+- Node.js
 
-#### 💡 Goals for 2022
+#### 💡 Goals for 2023
 - Complete #100DaysOfCode challenge
 - Become skilled in Python
-- Complete coding bootcamp by December 2022
-
-#### 👩‍💻 Published projects
-- [Interpretation of statistical concepts in Psychology)](http://www.marianjournals.com/files/JPER_articles/JPER_29_1_2021/Tafur_Mendoza_et_al_JPER_2021_29_1_72_96.pdf)
+- Complete coding bootcamp by July 2023
 
 #### ☕ Projects under development
-- Development of a mental healt services platform
-- Creation of a social support scale
-- Epidemiology and mental health in cancer patients
+- Cypher
+- Data Lovers
+- Social Network
+- MD Links
 
 #### :computer: Programming languages and tools: 
 
@@ -45,7 +41,7 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 <br />
 
 #### Pagina web
-https://gohugo.io/ 
+
 
 
 
