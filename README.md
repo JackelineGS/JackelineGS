@@ -4,8 +4,8 @@ Welcome to my Github I'm Jackeline and I'm currently a student frontend develope
 
 #### 🌱 About me: 
 
-I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development.
-I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
+- I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development.
+- I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
 
 #### ✔️ I'm currently learning
 - JavaScript
@@ -18,7 +18,7 @@ I am have a background in sciences health and I wrote some articles focus on [pu
 
 #### 💡 Goals for 2023
 - Become skilled in Python
-- Complete coding bootcamp by July 2023
+- Complete LABORATORIA bootcamp by July 2023
 
 #### ☕ Projects under development
 - Cypher
