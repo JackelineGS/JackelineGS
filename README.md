@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackeline García</h1>
 
-Welcome to my Github I am Jackeline and I currently I am bachelor in psychology at UNMSM and LABORATORIA bootcamp student
+Welcome to my Github I'm Jackeline and I'm currently a student frontend developer at LABORATORIA and I have a background in health sciences.
 
 #### 🌱 About me: 
 
