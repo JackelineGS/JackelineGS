@@ -4,7 +4,8 @@ Welcome to my Github I am Jackeline and I currently I am bachelor in psychology 
 
 #### 🌱 About me: 
 
-I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development. Halfway through my career in health sciences I discovered programming where its difficulty and possibilities pushed me to learn it and generate creative solutions. I started learning in a self-taught way and then in a team at Laboratoria, so self-learning and teamwork are my main values.
+I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development.
+I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
 
 #### ✔️ I'm currently learning
 - JavaScript
@@ -16,7 +17,6 @@ I am a front-end developer interested in developing technology projects that imp
 - Node.js
 
 #### 💡 Goals for 2023
-- Complete #100DaysOfCode challenge
 - Become skilled in Python
 - Complete coding bootcamp by July 2023
 
