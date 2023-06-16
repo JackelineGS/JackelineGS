@@ -15,12 +15,13 @@ Welcome to my Github I'm Jackeline and I'm currently a student frontend develope
 - Git
 - Jest
 - Node.js
+- Angular
 
 #### 💡 Goals for 2023
 - Become skilled in Python
 - Complete LABORATORIA bootcamp by July 2023
 
-#### ☕ Projects under development
+#### ☕ Completed Projects
 - Cypher
 - Data Lovers
 - Social Network
