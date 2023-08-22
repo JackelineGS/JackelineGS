@@ -11,7 +11,8 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 - SQL
 - jQuery
 - Tailwind
-- Bootstrap 
+- Bootstrap
+- Python
 
 #### 💡 Goals for 2023
 - Resolve excercises in Haker Rank
