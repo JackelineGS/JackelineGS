@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackeline García</h1>
 
-Welcome to my Github I'm Jackeline and I'm currently a student frontend developer at LABORATORIA and I have a background in health sciences.
+Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from LABORATORIA and I have a background in health sciences.
 
 #### 🌱 About me: 
 
@@ -8,18 +8,14 @@ Welcome to my Github I'm Jackeline and I'm currently a student frontend develope
 - I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
 
 #### ✔️ I'm currently learning
-- JavaScript
-- Html
-- CSS
-- Github
-- Git
-- Jest
-- Node.js
-- Angular
+- SQL
+- jQuery
+- Tailwind
+- Bootstrap 
 
 #### 💡 Goals for 2023
-- Become skilled in Python
-- Complete LABORATORIA bootcamp by July 2023
+- Resolve excercises in Haker Rank
+- Participate in Hakaton
 
 #### ☕ Completed Projects
 - Cypher
