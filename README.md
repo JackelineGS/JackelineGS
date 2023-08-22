@@ -16,7 +16,7 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 
 #### 💡 Goals for 2023
 - Resolve excercises in Haker Rank
-- Participate in Hakaton
+- Participate in a Hakaton
 
 #### ☕ Completed Projects
 - Cypher
