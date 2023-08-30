@@ -18,11 +18,15 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 - Resolve excercises in Haker Rank
 - Participate in a Hakaton
 
-#### ☕ Completed Projects
-- Cypher
-- Data Lovers
-- Social Network
-- MD Links
+#### ☕ Completed projects and skills
+- Cypher : HTML, JavaScript, CSS, Git, Github, Jest.
+- Data Lovers : HTML, JavaScript, CSS, Node, Git, Github, Jest, Figma.
+- Social Network : HTML, JavaScript, CSS, Git, GitHub, Node, Jest, Firebase, Figma.
+- MD Links : JavaScript, Git, Github, Node, Git, GitHub, Jest.
+
+#### 👨‍💻 Projects under development and skills
+- Burguer Queen : HTML, JavaScript, CSS, SASS, Angular, TypeScript, HTTP, Git, GitHub, Karma, Node, Figma.
+- Memory Match Game: HTML, JavaScript, CSS, bootstrap, tailwind.
 
 #### :computer: Programming languages and tools: 
 
