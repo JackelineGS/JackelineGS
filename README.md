@@ -8,11 +8,13 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 - I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
 
 #### ✔️ I'm currently learning
-- SQL
+- Python
+- C#
+- .NET  
+- SQL 
 - jQuery
 - Tailwind
 - Bootstrap
-- Python
 
 #### 💡 Goals for 2023
 - Resolve excercises in Haker Rank
