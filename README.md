@@ -39,7 +39,7 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 
 #### Statistics 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineGS&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineGS&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
