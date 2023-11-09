@@ -31,7 +31,7 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 - Memory Match Game: HTML, JavaScript, CSS, bootstrap, tailwind.
 
 #### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackelineGS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackelineGS&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :computer: Programming languages and tools: 
 
