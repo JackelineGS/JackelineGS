@@ -12,7 +12,7 @@ Welcome to my Github I'm Jackeline and I studied web development at LABORATORIA,
 - C++  
 - SQL 
 
-#### 💡 Goals for 2023
+#### 💡 Goals for 2024
 - Resolve excercises in Haker Rank
 - Participate in a Hackathon
 
