@@ -9,12 +9,8 @@ Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from 
 
 #### ✔️ I'm currently learning
 - Python
-- C#
-- .NET  
+- C++  
 - SQL 
-- jQuery
-- Tailwind
-- Bootstrap
 
 #### 💡 Goals for 2023
 - Resolve excercises in Haker Rank
