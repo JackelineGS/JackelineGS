@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jackeline García</h1>
 
-Welcome to my Github I'm Jackeline and I'm  a frontend developer graduated from LABORATORIA and I have a background in health sciences.
+Welcome to my Github I'm Jackeline and I studied web development at LABORATORIA, initially I studied Psychology, but currently I'm studying Software Engineering. My inspiration currently is Jonathon Love who is a Software Developer and researcher. 
 
 #### 🌱 About me: 
 
-- I am a front-end developer interested in developing technology projects that improve people's wellbeing and boost social development.
-- I am have a background in sciences health and I wrote some articles focus on [public health](https://orcid.org/0000-0001-9260-1505) 
+- I am interested in developing technological projects that provide safety and improve people's well-being.
+- I have also written a few articles focused on [public health](https://orcid.org/0000-0001-9260-1505) 
 
 #### ✔️ I'm currently learning
 - Python
