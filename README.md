@@ -11,6 +11,7 @@ Welcome to my Github I'm Jackeline and I studied web development at LABORATORIA.
 - Python
 - C++  
 - SQL Server
+- Java
 
 #### 💡 Goals for 2024
 - Resolve excercises in Haker Rank
