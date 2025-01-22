@@ -10,7 +10,7 @@ Welcome to my Github I'm Jackeline and I studied web development at LABORATORIA.
 #### ✔️ I'm currently learning
 - Python
 - C++  
-- SQL Server
+- SQL Server AND MySQL
 - Java
 
 #### 💡 Goals for 2024
