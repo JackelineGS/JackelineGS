@@ -9,7 +9,7 @@ Welcome to my Github I'm Jackeline and I am currently studying Software Engineer
 
 #### ✔️ I'm currently learning
 - Python
-- C++  
+- Cloud Computing  
 - SQL Server AND MySQL
 - Java
 
