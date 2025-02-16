@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackeline García</h1>
 
-Welcome to my Github I'm Jackeline and I studied web development at LABORATORIA. I am currently studying Software Engineering at San Ignacio de Loyola University in Peru. My inspiration is Jonathon Love who is a Software Developer and researcher. 
+Welcome to my Github I'm Jackeline and I am currently studying Software Engineering at San Ignacio de Loyola University in Peru. I studied web development at LABORATORIA and my inspiration is Jonathon Love who is a Software Developer and researcher. 
 
 #### 🌱 About me: 
 
