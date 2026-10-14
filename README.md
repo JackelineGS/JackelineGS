@@ -5,7 +5,7 @@ Welcome to my Github I'm Jackeline and I am currently studying Software Engineer
 #### 🌱 About me: 
 
 - I am interested in developing technological projects that provide safety and improve people's well-being.
-- I have also written a few articles focused on [public health](https://orcid.org/0000-0001-9260-1505) 
+- I have also written a few articles focused on [public health AND GLOBAL HEALTH](https://orcid.org/0000-0001-9260-1505) 
 
 #### stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineGS&layout=compact)
