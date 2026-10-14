@@ -9,7 +9,6 @@ Welcome to my Github I'm Jackeline and I am currently studying Software Engineer
 
 #### stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineGS&layout=compact)
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineGS&layout=compact) 
 
 #### 🔔 Other Tools
 
